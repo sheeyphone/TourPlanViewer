@@ -134,14 +134,14 @@ export default [
   {
     day: 12,
     date: '2026-10-07',
-    title: '自驾D5：哈斯塔德 → 还车 → 赫尔辛基',
+    title: '自驾D5：哈斯塔德 → 渡轮 → 特罗姆瑟 → 赫尔辛基',
     city: '特罗姆瑟 / 赫尔辛基',
     transport: null,
-    activities: ['Harstad → Tromsø（E6，约 309km）', '特罗姆瑟还车'],
+    activities: ['Harstad → Stangnes 渡口 → 渡轮（40min）→ Sørrollnes', 'Sørrollnes → Tromsø（约255km / 4h15m，经 Ibestad/Dyrøy/Salangen/Målselv/Balsfjord）', '特罗姆瑟还车'],
     meals: [],
     hotel: null,
-    driving: { segment: 'd5', detail: 'Harstad → Tromsø 约 309km / 5.1h', status: 'todo' },
-    note: '早出发，还车后赶返程航班（航班/酒店见本地私有数据）',
+    driving: { segment: 'd5', detail: 'Harstad → Stangnes 渡轮 → Sørrollnes → Tromsø（约255km路 + 40min渡轮）', status: 'todo' },
+    note: 'Stangnes→Sørrollnes 渡轮工作日班次：07:45/09:15/11:30/13:00/14:45/16:15/17:45/20:30/22:00；推荐 07:45 班（余量约5h），09:15 为备选；沿途村镇可停靠（航班/酒店见本地私有数据）',
   },
   {
     day: 13,

@@ -40,13 +40,19 @@ for (const seg of driveSegments) {
     continue
   }
 
-  const url = `${BASE}/${from.lng},${from.lat};${to.lng},${to.lat}?overview=simplified&geometries=geojson`
+  const via = (seg.via || []).map(([lng, lat]) => `${lng},${lat}`).join(';')
+  const waypoints = `${from.lng},${from.lat}${via ? ';' + via : ''};${to.lng},${to.lat}`
+  const overview = seg.overview || 'simplified'
+  const url = `${BASE}/${waypoints}?overview=${overview}&geometries=geojson`
   try {
     const res = await fetch(url)
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     const data = await res.json()
-    const geometry = data.routes?.[0]?.geometry
+    let geometry = data.routes?.[0]?.geometry
     if (!geometry) throw new Error('无 geometry')
+    if (overview === 'full') {
+      geometry = { type: 'LineString', coordinates: simplify(geometry.coordinates, seg.tolerance ?? 0.0025) }
+    }
     writeFileSync(file, JSON.stringify(geometry, null, 2))
     const km = Math.round(data.routes[0].distance / 1000)
     done++
@@ -56,6 +62,33 @@ for (const seg of driveSegments) {
   }
 
   await sleep(500)
+}
+
+function simplify(pts, tol) {
+  if (pts.length < 3) return pts
+  const keep = new Uint8Array(pts.length)
+  keep[0] = keep[pts.length - 1] = 1
+  const stack = [[0, pts.length - 1]]
+  const dist = (a, b, c) => {
+    const [x0, y0] = c, [x1, y1] = a, [x2, y2] = b
+    const dx = x2 - x1, dy = y2 - y1
+    if (dx === 0 && dy === 0) return Math.hypot(x0 - x1, y0 - y1)
+    const t = Math.max(0, Math.min(1, ((x0 - x1) * dx + (y0 - y1) * dy) / (dx * dx + dy * dy)))
+    return Math.hypot(x0 - (x1 + t * dx), y0 - (y1 + t * dy))
+  }
+  while (stack.length) {
+    const [s, e] = stack.pop()
+    let maxD = 0, idx = -1
+    for (let i = s + 1; i < e; i++) {
+      const d = dist(pts[s], pts[e], pts[i])
+      if (d > maxD) { maxD = d; idx = i }
+    }
+    if (maxD > tol && idx >= 0) {
+      keep[idx] = 1
+      stack.push([s, idx], [idx, e])
+    }
+  }
+  return pts.filter((_, i) => keep[i])
 }
 
 console.log(`\n下载 ${done} 段，跳过 ${skipped} 段 → ${OUT_DIR}`)

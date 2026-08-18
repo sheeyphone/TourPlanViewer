@@ -39,8 +39,11 @@
 ## Day 11 · 10-06 (Tue) Drive D4: Harstad · rest day
 - City stroll / baths, rest before the return leg
 
-## Day 12 · 10-07 (Wed) Drive D5: Harstad → Tromsø → Helsinki
-- E6 back to Tromsø (~309km), return car, evening flight to Helsinki (flight / hotel: private data)
+## Day 12 · 10-07 (Wed) Drive D5: Harstad → ferry → Tromsø → Helsinki
+- Drive to Stangnes (Harstad) → **Stangnes–Sørrollnes ferry** (~40 min) → Sørrollnes
+- Sørrollnes → Tromsø by road (~255 km / ~4h15), via Ibestad → Dyrøy (Brøstadbotn) → Salangen (Sjøvegan) → Målselv (Bardufoss) → Balsfjord (Fagernes / Storsteinnes)
+- Ferry from Stangnes, Mon–Fri: 07:45 · 09:15 · 11:30 · 13:00 · 14:45 · 16:15 · 17:45 · 20:30 · 22:00 — take 07:45 (≈5h buffer) or 09:15 (tight); Sat 09:15/10:45/14:45/16:15/17:45/20:45 · Sun 10:00/13:00/16:15/17:45/20:00/21:30
+- Return car at TOS, evening flight to Helsinki (flight: private data)
 
 ## Day 13 · 10-08 (Thu) Helsinki morning → Bangkok
 - Free morning in Helsinki (flight: private data)

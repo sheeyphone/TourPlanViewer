@@ -104,7 +104,8 @@ export default [
   // ── 自驾沿线 · D8/D9/D11 ────────────────────────
   { id: 'lodingen', name: '莱丁恩 Lødingen', lat: 68.4145, lng: 15.995, category: 'city', day: 8, note: 'D1 夜宿（备选 Lødingen↔Bognes 免费渡轮）' },
   { id: 'sorvagen', name: 'Sørvågen（南线夜宿）', lat: 67.9695, lng: 12.9935, category: 'hotel', day: 9, note: '近 Moskenes 码头，D2 夜宿渔村' },
-  { id: 'harstad', name: '哈斯塔德 Harstad', lat: 68.7984, lng: 16.5406, category: 'hotel', day: 11, note: '欣岛北岸城市，D3-D4 夜宿/休整日' },
+  { id: 'harstad', name: '哈斯塔德 Harstad', lat: 68.7984, lng: 16.5406, category: 'hotel', day: 11, note: '欣岛北岸城市，D3 夜宿' },
+  { id: 'silsand', name: 'Silsand（南 Senja）', lat: 69.2448, lng: 17.9497, category: 'hotel', day: 11, note: '南 Senja 过夜点，Gisund 桥对岸 Finnsnes，D4 夜宿，D5 返程枢纽（渡轮/公路双兜底）' },
 
   // ── TripAdvisor 热门景点（自动生成模块）─────────
   ...helsinkiAttractions,

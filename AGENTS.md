@@ -14,7 +14,7 @@
   README/example values must be fake (`XX0000`, `Example Hotel`).
 - `docs/03-bookings/`, `docs/04-checklist/`, `docs/05-budget/` are local-only sensitive docs (git-ignored).
 - After any change, self-check (must return 0):
-  `git ls-files | xargs grep -lE "AY[0-9]{3,4}|DY[0-9]{3,4}|Scandic|Citybox|奇迹转机"`
+  `git ls-files ':!AGENTS.md' | xargs grep -lE "AY[0-9]{3,4}|DY[0-9]{3,4}|Scandic|Citybox|奇迹转机"`
 - If private data ever lands in history, rebuild as a single orphan commit + force push.
 
 ## Data sources of truth

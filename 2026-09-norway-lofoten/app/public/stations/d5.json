@@ -1,159 +1,57 @@
 [
   {
     "type": "fuel",
-    "name": "St1 Truck Harstad",
-    "lat": 68.77952,
-    "lng": 16.58748
-  },
-  {
-    "type": "fuel",
-    "name": "St1 Bergseng",
-    "lat": 68.80844,
-    "lng": 16.50924
-  },
-  {
-    "type": "fuel",
-    "name": "YX Harstad",
-    "lat": 68.79752,
-    "lng": 16.53909
-  },
-  {
-    "type": "fuel",
-    "name": "Autoservice",
-    "lat": 68.77161,
-    "lng": 17.16858
+    "name": "St1 Finnsnes",
+    "lat": 69.23061,
+    "lng": 17.99854
   },
   {
     "type": "fuel",
     "name": null,
-    "lat": 68.6769,
-    "lng": 17.12226
+    "lat": 69.60015,
+    "lng": 18.04289
   },
   {
     "type": "fuel",
-    "name": "YX Tovik",
-    "lat": 68.68014,
-    "lng": 16.87341
+    "name": "Esso Finnsnes",
+    "lat": 69.23031,
+    "lng": 17.99071
   },
   {
     "type": "fuel",
-    "name": "Circle K Harstad",
-    "lat": 68.79009,
-    "lng": 16.53875
+    "name": "Circle K Finnsnes",
+    "lat": 69.23003,
+    "lng": 17.99429
   },
   {
     "type": "fuel",
-    "name": "St1 Åsby",
-    "lat": 68.78149,
-    "lng": 16.56805
+    "name": "YX Silsand",
+    "lat": 69.23556,
+    "lng": 17.92986
   },
   {
     "type": "fuel",
-    "name": "Uno-X Kilamyra",
-    "lat": 68.74012,
-    "lng": 16.562
+    "name": "St1 Senja",
+    "lat": 69.36014,
+    "lng": 18.05716
   },
   {
     "type": "fuel",
-    "name": "LPG Harstad",
-    "lat": 68.77965,
-    "lng": 16.58831
+    "name": null,
+    "lat": 69.68641,
+    "lng": 18.73793
   },
   {
     "type": "fuel",
-    "name": "Uno-X Seljestad",
-    "lat": 68.79057,
-    "lng": 16.53684
+    "name": "Matkroken Sommarøy",
+    "lat": 69.63363,
+    "lng": 18.00359
   },
   {
     "type": "fuel",
-    "name": "LPG Brøstadbotn",
-    "lat": 69.0936,
-    "lng": 17.70446
-  },
-  {
-    "type": "fuel",
-    "name": "Knapphus Automat Salangen",
-    "lat": 68.90851,
-    "lng": 17.71981
-  },
-  {
-    "type": "fuel",
-    "name": "Haltbakk Express Brødstadbotn",
-    "lat": 69.09328,
-    "lng": 17.70319
-  },
-  {
-    "type": "fuel",
-    "name": "Uno-X 7-Eleven Bardufoss",
-    "lat": 69.0936,
-    "lng": 18.59283
-  },
-  {
-    "type": "fuel",
-    "name": "Circle K E6 Buktamo",
-    "lat": 69.13367,
-    "lng": 18.57905
-  },
-  {
-    "type": "fuel",
-    "name": "LPG Bardufoss",
-    "lat": 69.09057,
-    "lng": 18.58607
-  },
-  {
-    "type": "fuel",
-    "name": "YX Bardufoss",
-    "lat": 69.0442,
-    "lng": 18.51008
-  },
-  {
-    "type": "fuel",
-    "name": "Circle K Automat Sørreisa",
-    "lat": 69.14383,
-    "lng": 18.15541
-  },
-  {
-    "type": "fuel",
-    "name": "YX Sørreisa",
-    "lat": 69.14623,
-    "lng": 18.15707
-  },
-  {
-    "type": "fuel",
-    "name": "B3 Petroleum Buktamo Tankanlegg",
-    "lat": 69.13318,
-    "lng": 18.58062
-  },
-  {
-    "type": "fuel",
-    "name": "Uno-X Truck Bardufoss",
-    "lat": 69.09365,
-    "lng": 18.59244
-  },
-  {
-    "type": "fuel",
-    "name": "Esso Tømmerelv",
-    "lat": 69.21703,
-    "lng": 19.30135
-  },
-  {
-    "type": "fuel",
-    "name": "St1 Balsfjord",
-    "lat": 69.21547,
-    "lng": 19.55396
-  },
-  {
-    "type": "fuel",
-    "name": "Circle K E6 Nordkjosbotn",
-    "lat": 69.21732,
-    "lng": 19.5574
-  },
-  {
-    "type": "fuel",
-    "name": "Circle K Automat Storsteinnes",
-    "lat": 69.24017,
-    "lng": 19.22478
+    "name": "Matkroken Sommarøy",
+    "lat": 69.63375,
+    "lng": 18.00451
   },
   {
     "type": "fuel",
@@ -172,12 +70,6 @@
     "name": "Bunker Oil Isrenna",
     "lat": 69.68503,
     "lng": 19.00205
-  },
-  {
-    "type": "fuel",
-    "name": "Circle K Automat Kroken",
-    "lat": 69.68447,
-    "lng": 19.07123
   },
   {
     "type": "fuel",
@@ -253,141 +145,33 @@
   },
   {
     "type": "charging",
-    "name": "Recharge Amfi Kanebogen Harstad",
-    "lat": 68.7788,
-    "lng": 16.5649
+    "name": "Charge365 Lenvik rådhus",
+    "lat": 69.23132,
+    "lng": 17.98744
   },
   {
     "type": "charging",
-    "name": "Recharge Norbil Harstad",
-    "lat": 68.7798,
-    "lng": 16.58031
+    "name": "Charge365 Finnsnes omsorgssenter",
+    "lat": 69.23473,
+    "lng": 18.01028
   },
   {
     "type": "charging",
-    "name": "Recharge Shell Åsby",
-    "lat": 68.78121,
-    "lng": 16.56828
+    "name": "Amfi Finnsnes",
+    "lat": 69.22885,
+    "lng": 17.98073
   },
   {
     "type": "charging",
-    "name": "Mer OBS Harstad",
-    "lat": 68.79002,
-    "lng": 16.54159
-  },
-  {
-    "type": "charging",
-    "name": "Uno-X Kilamyra",
-    "lat": 68.7402,
-    "lng": 16.56326
-  },
-  {
-    "type": "charging",
-    "name": "Kople YX Brøstadbotn",
-    "lat": 69.0934,
-    "lng": 17.70366
+    "name": "Kople Ishavsveien Finnsnes",
+    "lat": 69.23121,
+    "lng": 18.00306
   },
   {
     "type": "charging",
     "name": null,
-    "lat": 68.86949,
-    "lng": 17.76726
-  },
-  {
-    "type": "charging",
-    "name": "eRoute 71 Målselv fjellandsby",
-    "lat": 69.07924,
-    "lng": 18.72418
-  },
-  {
-    "type": "charging",
-    "name": "Circle K E6 Buktamo",
-    "lat": 69.13356,
-    "lng": 18.58011
-  },
-  {
-    "type": "charging",
-    "name": "Charge365 Sørreisa kommune torg",
-    "lat": 69.14562,
-    "lng": 18.15138
-  },
-  {
-    "type": "charging",
-    "name": null,
-    "lat": 69.05515,
-    "lng": 18.48912
-  },
-  {
-    "type": "charging",
-    "name": "Mer Extra Bardufoss",
-    "lat": 69.06473,
-    "lng": 18.51033
-  },
-  {
-    "type": "charging",
-    "name": "Uno-X Bardufoss",
-    "lat": 69.06389,
-    "lng": 18.50486
-  },
-  {
-    "type": "charging",
-    "name": "Kople Spar Heggmo Bardufoss",
-    "lat": 69.04361,
-    "lng": 18.50888
-  },
-  {
-    "type": "charging",
-    "name": "Kople Coop Extra Olsborg",
-    "lat": 69.1427,
-    "lng": 18.59822
-  },
-  {
-    "type": "charging",
-    "name": "Mer Laksvatn",
-    "lat": 69.3763,
-    "lng": 19.36212
-  },
-  {
-    "type": "charging",
-    "name": "Circle K E6 Nordkjosbotn",
-    "lat": 69.21768,
-    "lng": 19.55632
-  },
-  {
-    "type": "charging",
-    "name": "Recharge Vollan Gjestestue",
-    "lat": 69.21879,
-    "lng": 19.56145
-  },
-  {
-    "type": "charging",
-    "name": "Recharge Spar Storsteinnes",
-    "lat": 69.23967,
-    "lng": 19.23491
-  },
-  {
-    "type": "charging",
-    "name": "Recharge Shell Balsfjord",
-    "lat": 69.21569,
-    "lng": 19.55445
-  },
-  {
-    "type": "charging",
-    "name": "Ionity Nordkjosbotn",
-    "lat": 69.21816,
-    "lng": 19.56082
-  },
-  {
-    "type": "charging",
-    "name": "Kople Ishavsveien Esso Tømmerelv",
-    "lat": 69.21704,
-    "lng": 19.30145
-  },
-  {
-    "type": "charging",
-    "name": null,
-    "lat": 69.21694,
-    "lng": 19.303
+    "lat": 69.63596,
+    "lng": 17.9918
   },
   {
     "type": "charging",

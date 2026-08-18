@@ -36,13 +36,17 @@
 - Morning: Å village + museum + bakery, Moskenes ferry terminal → north to Harstad (~288km)
 - Å bakery open until 10/12; Reinebringen not recommended in Oct
 
-## Day 11 · 10-06 (Tue) Drive D4: Harstad · rest day
-- City stroll / baths, rest before the return leg
+## Day 11 · 10-06 (Tue) Drive D4: Harstad → South Senja
+- Harstad → Stangnes → **Stangnes–Sørrollnes ferry** (~40 min) → Sørrollnes
+- Sørrollnes → Silsand (south Senja) by road (~113 km / ~2h), via Ibestad → Dyrøy → Salangen → Finnsnes
+- Ferry from Stangnes, Mon–Fri: 07:45 · 09:15 · 11:30 · 13:00 · 14:45 · 16:15 · 17:45 · 20:30 · 22:00 — take 11:30 or 13:00, arrive Silsand by ~15:30; Sat 09:15/10:45/14:45/16:15/17:45/20:45 · Sun 10:00/13:00/16:15/17:45/20:00/21:30
+- Overnight south Senja (Silsand / Finnsnes area)
 
-## Day 12 · 10-07 (Wed) Drive D5: Harstad → ferry → Tromsø → Helsinki
-- Drive to Stangnes (Harstad) → **Stangnes–Sørrollnes ferry** (~40 min) → Sørrollnes
-- Sørrollnes → Tromsø by road (~255 km / ~4h15), via Ibestad → Dyrøy (Brøstadbotn) → Salangen (Sjøvegan) → Målselv (Bardufoss) → Balsfjord (Fagernes / Storsteinnes)
-- Ferry from Stangnes, Mon–Fri: 07:45 · 09:15 · 11:30 · 13:00 · 14:45 · 16:15 · 17:45 · 20:30 · 22:00 — take 07:45 (≈5h buffer) or 09:15 (tight); Sat 09:15/10:45/14:45/16:15/17:45/20:45 · Sun 10:00/13:00/16:15/17:45/20:00/21:30
+## Day 12 · 10-07 (Wed) Drive D5: Senja → ferry → Tromsø → Helsinki
+- Silsand → Botnhamn (52 km / ~1h) → **Botnhamn–Brensholmen ferry** (~40 min) → Brensholmen (Kvaløya)
+- Brensholmen → Tromsø by road (~55 km / ~70 min), over the Sandnessund bridge
+- Ferry from Botnhamn, Mon–Fri: 08:00 · 09:45 · 14:00 · 16:00 · 18:00 · 20:00 (4h15 gap after 09:45) — take 09:45 (≈6h buffer) or 14:00 (≈2h); Sat 08:00/09:45/11:45/16:00/18:00 · Sun 09:30/11:15/16:00/18:00/20:00/21:30
+- If the ferry is cancelled: road-only Silsand → Finnsnes → Målselv → E8 → Tromsø (168 km / 2h49, no ferry) — leave by 13:00
 - Return car at TOS, evening flight to Helsinki (flight: private data)
 
 ## Day 13 · 10-08 (Thu) Helsinki morning → Bangkok

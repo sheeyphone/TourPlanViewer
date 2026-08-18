@@ -1,0 +1,194 @@
+[
+  {
+    "type": "fuel",
+    "name": "St1 Truck Harstad",
+    "lat": 68.77952,
+    "lng": 16.58748
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Bergseng",
+    "lat": 68.80844,
+    "lng": 16.50924
+  },
+  {
+    "type": "fuel",
+    "name": "YX Harstad (automat)",
+    "lat": 68.79752,
+    "lng": 16.53909
+  },
+  {
+    "type": "fuel",
+    "name": "Autoservice",
+    "lat": 68.77161,
+    "lng": 17.16858
+  },
+  {
+    "type": "fuel",
+    "name": null,
+    "lat": 68.6769,
+    "lng": 17.12226
+  },
+  {
+    "type": "fuel",
+    "name": "YX Tovik",
+    "lat": 68.68014,
+    "lng": 16.87341
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Harstad",
+    "lat": 68.79009,
+    "lng": 16.53875
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Åsby",
+    "lat": 68.78149,
+    "lng": 16.56805
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Kilamyra",
+    "lat": 68.74012,
+    "lng": 16.562
+  },
+  {
+    "type": "fuel",
+    "name": "LPG Harstad",
+    "lat": 68.77965,
+    "lng": 16.58831
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Seljestad",
+    "lat": 68.79057,
+    "lng": 16.53684
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Finnsnes",
+    "lat": 69.23061,
+    "lng": 17.99854
+  },
+  {
+    "type": "fuel",
+    "name": "LPG Brøstadbotn",
+    "lat": 69.0936,
+    "lng": 17.70446
+  },
+  {
+    "type": "fuel",
+    "name": "Esso Finnsnes",
+    "lat": 69.23031,
+    "lng": 17.99071
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Finnsnes",
+    "lat": 69.23003,
+    "lng": 17.99429
+  },
+  {
+    "type": "fuel",
+    "name": "Knapphus Automat Salangen",
+    "lat": 68.90851,
+    "lng": 17.71981
+  },
+  {
+    "type": "fuel",
+    "name": "Haltbakk Express Brødstadbotn",
+    "lat": 69.09328,
+    "lng": 17.70319
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Automat Sørreisa",
+    "lat": 69.14383,
+    "lng": 18.15541
+  },
+  {
+    "type": "fuel",
+    "name": "YX Silsand",
+    "lat": 69.23556,
+    "lng": 17.92986
+  },
+  {
+    "type": "fuel",
+    "name": "YX Sørreisa",
+    "lat": 69.14623,
+    "lng": 18.15707
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Amfi Kanebogen Harstad",
+    "lat": 68.7788,
+    "lng": 16.5649
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Norbil Harstad",
+    "lat": 68.7798,
+    "lng": 16.58031
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Shell Åsby",
+    "lat": 68.78121,
+    "lng": 16.56828
+  },
+  {
+    "type": "charging",
+    "name": "Mer OBS Harstad",
+    "lat": 68.79002,
+    "lng": 16.54159
+  },
+  {
+    "type": "charging",
+    "name": "Uno-X Kilamyra",
+    "lat": 68.7402,
+    "lng": 16.56326
+  },
+  {
+    "type": "charging",
+    "name": "Charge365 Lenvik rådhus",
+    "lat": 69.23132,
+    "lng": 17.98744
+  },
+  {
+    "type": "charging",
+    "name": "Amfi Finnsnes",
+    "lat": 69.22885,
+    "lng": 17.98073
+  },
+  {
+    "type": "charging",
+    "name": "Kople Ishavsveien Finnsnes",
+    "lat": 69.23121,
+    "lng": 18.00306
+  },
+  {
+    "type": "charging",
+    "name": "Kople YX Brøstadbotn",
+    "lat": 69.0934,
+    "lng": 17.70366
+  },
+  {
+    "type": "charging",
+    "name": null,
+    "lat": 68.86949,
+    "lng": 17.76726
+  },
+  {
+    "type": "charging",
+    "name": "Charge365 Sørreisa kommune torg",
+    "lat": 69.14562,
+    "lng": 18.15138
+  },
+  {
+    "type": "charging",
+    "name": "Charge365 Finnsnes omsorgssenter",
+    "lat": 69.23473,
+    "lng": 18.01028
+  }
+]

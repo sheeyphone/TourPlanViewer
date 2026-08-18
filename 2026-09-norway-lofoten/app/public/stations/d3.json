@@ -1,0 +1,350 @@
+[
+  {
+    "type": "fuel",
+    "name": "Circle K Leknes",
+    "lat": 68.14826,
+    "lng": 13.61356
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Reine",
+    "lat": 67.93462,
+    "lng": 13.08878
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Automat Ramberg",
+    "lat": 68.08986,
+    "lng": 13.22799
+  },
+  {
+    "type": "fuel",
+    "name": null,
+    "lat": 68.00754,
+    "lng": 13.21005
+  },
+  {
+    "type": "fuel",
+    "name": "YX Gravdal",
+    "lat": 68.12032,
+    "lng": 13.54774
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Leknes",
+    "lat": 68.1556,
+    "lng": 13.62224
+  },
+  {
+    "type": "fuel",
+    "name": null,
+    "lat": 68.25887,
+    "lng": 13.82046
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Truck Bøstad",
+    "lat": 68.27236,
+    "lng": 13.9722
+  },
+  {
+    "type": "fuel",
+    "name": "Esso Osan",
+    "lat": 68.23209,
+    "lng": 14.53103
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Svolvær",
+    "lat": 68.23884,
+    "lng": 14.56783
+  },
+  {
+    "type": "fuel",
+    "name": "LPG Svolvær",
+    "lat": 68.23094,
+    "lng": 14.53646
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Melbu",
+    "lat": 68.50211,
+    "lng": 14.81883
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Svolvær",
+    "lat": 68.23916,
+    "lng": 14.56625
+  },
+  {
+    "type": "fuel",
+    "name": null,
+    "lat": 68.49626,
+    "lng": 14.81518
+  },
+  {
+    "type": "fuel",
+    "name": "YX Lødingen",
+    "lat": 68.42087,
+    "lng": 15.98963
+  },
+  {
+    "type": "fuel",
+    "name": "Bunker Oil Gullesfjord",
+    "lat": 68.53027,
+    "lng": 15.76468
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Truck Harstad",
+    "lat": 68.77952,
+    "lng": 16.58748
+  },
+  {
+    "type": "fuel",
+    "name": "R.Jacobsen",
+    "lat": 68.56598,
+    "lng": 16.24986
+  },
+  {
+    "type": "fuel",
+    "name": "YX Kongsvik",
+    "lat": 68.56452,
+    "lng": 16.27571
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Bergseng",
+    "lat": 68.80844,
+    "lng": 16.50924
+  },
+  {
+    "type": "fuel",
+    "name": "YX Harstad",
+    "lat": 68.79752,
+    "lng": 16.53909
+  },
+  {
+    "type": "fuel",
+    "name": "YX Sørvik",
+    "lat": 68.68373,
+    "lng": 16.5356
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Harstad",
+    "lat": 68.79009,
+    "lng": 16.53875
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Åsby",
+    "lat": 68.78149,
+    "lng": 16.56805
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Kilamyra",
+    "lat": 68.74012,
+    "lng": 16.562
+  },
+  {
+    "type": "fuel",
+    "name": "YX Evenskjer",
+    "lat": 68.58563,
+    "lng": 16.57168
+  },
+  {
+    "type": "fuel",
+    "name": "LPG Harstad",
+    "lat": 68.77965,
+    "lng": 16.58831
+  },
+  {
+    "type": "fuel",
+    "name": "Knapphus Rødskjær",
+    "lat": 68.5775,
+    "lng": 16.52488
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Seljestad",
+    "lat": 68.79057,
+    "lng": 16.53684
+  },
+  {
+    "type": "charging",
+    "name": "Circle K Leknes",
+    "lat": 68.14873,
+    "lng": 13.61272
+  },
+  {
+    "type": "charging",
+    "name": "Mer Lofotsenteret",
+    "lat": 68.14822,
+    "lng": 13.61837
+  },
+  {
+    "type": "charging",
+    "name": "Eviny Rema 1000 Leknes",
+    "lat": 68.14512,
+    "lng": 13.61987
+  },
+  {
+    "type": "charging",
+    "name": "Tesla Reine Supercharger",
+    "lat": 67.93478,
+    "lng": 13.09405
+  },
+  {
+    "type": "charging",
+    "name": "Kople Bodø Energi Reine",
+    "lat": 67.93445,
+    "lng": 13.09468
+  },
+  {
+    "type": "charging",
+    "name": "Eviny Reine",
+    "lat": 67.93499,
+    "lng": 13.08898
+  },
+  {
+    "type": "charging",
+    "name": "Kople Bodø Energi Ramberg",
+    "lat": 68.08956,
+    "lng": 13.22632
+  },
+  {
+    "type": "charging",
+    "name": "Kople Lad Opp Lofoten Basecamp",
+    "lat": 68.1521,
+    "lng": 13.51138
+  },
+  {
+    "type": "charging",
+    "name": null,
+    "lat": 68.03519,
+    "lng": 13.34865
+  },
+  {
+    "type": "charging",
+    "name": "Tesla Leknes Supercharger",
+    "lat": 68.14515,
+    "lng": 13.62051
+  },
+  {
+    "type": "charging",
+    "name": null,
+    "lat": 68.15608,
+    "lng": 14.20736
+  },
+  {
+    "type": "charging",
+    "name": "Eviny Alstad Kro og camping",
+    "lat": 68.27229,
+    "lng": 13.93621
+  },
+  {
+    "type": "charging",
+    "name": null,
+    "lat": 68.15238,
+    "lng": 14.2099
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Kiwi Osan",
+    "lat": 68.23269,
+    "lng": 14.53115
+  },
+  {
+    "type": "charging",
+    "name": "Amfi Svolvær",
+    "lat": 68.2338,
+    "lng": 14.5586
+  },
+  {
+    "type": "charging",
+    "name": "Kople",
+    "lat": 68.20844,
+    "lng": 14.44957
+  },
+  {
+    "type": "charging",
+    "name": "Eviny Alti Svolvær",
+    "lat": 68.23437,
+    "lng": 14.55982
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Shell Svolvær",
+    "lat": 68.23948,
+    "lng": 14.56681
+  },
+  {
+    "type": "charging",
+    "name": "Kople ChargeUp Aust-Lofoten vgs",
+    "lat": 68.23618,
+    "lng": 14.56529
+  },
+  {
+    "type": "charging",
+    "name": "Kople ChargeUp Hadsel vgs avd. Melbu",
+    "lat": 68.50344,
+    "lng": 14.806
+  },
+  {
+    "type": "charging",
+    "name": "Kople Pwr Up Melbu",
+    "lat": 68.49944,
+    "lng": 14.79896
+  },
+  {
+    "type": "charging",
+    "name": "Eviny Gullesfjord camping",
+    "lat": 68.5319,
+    "lng": 15.7272
+  },
+  {
+    "type": "charging",
+    "name": "Kople Lad Opp YX Lødingen",
+    "lat": 68.42124,
+    "lng": 15.99015
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Amfi Kanebogen Harstad",
+    "lat": 68.7788,
+    "lng": 16.5649
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Norbil Harstad",
+    "lat": 68.7798,
+    "lng": 16.58031
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Shell Åsby",
+    "lat": 68.78121,
+    "lng": 16.56828
+  },
+  {
+    "type": "charging",
+    "name": "Kople Tjeldsundbrua hotel",
+    "lat": 68.62518,
+    "lng": 16.59051
+  },
+  {
+    "type": "charging",
+    "name": "Mer OBS Harstad",
+    "lat": 68.79002,
+    "lng": 16.54159
+  },
+  {
+    "type": "charging",
+    "name": "Uno-X Kilamyra",
+    "lat": 68.7402,
+    "lng": 16.56326
+  }
+]

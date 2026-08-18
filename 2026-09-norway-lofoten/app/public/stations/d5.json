@@ -1,0 +1,602 @@
+[
+  {
+    "type": "fuel",
+    "name": "St1 Truck Harstad",
+    "lat": 68.77952,
+    "lng": 16.58748
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Bergseng",
+    "lat": 68.80844,
+    "lng": 16.50924
+  },
+  {
+    "type": "fuel",
+    "name": "YX Harstad",
+    "lat": 68.79752,
+    "lng": 16.53909
+  },
+  {
+    "type": "fuel",
+    "name": "YX Sørvik",
+    "lat": 68.68373,
+    "lng": 16.5356
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Evenes",
+    "lat": 68.49618,
+    "lng": 16.70049
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Harstad",
+    "lat": 68.79009,
+    "lng": 16.53875
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Åsby",
+    "lat": 68.78149,
+    "lng": 16.56805
+  },
+  {
+    "type": "fuel",
+    "name": "YX Bogen i Ofoten",
+    "lat": 68.52609,
+    "lng": 16.99449
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Kilamyra",
+    "lat": 68.74012,
+    "lng": 16.562
+  },
+  {
+    "type": "fuel",
+    "name": "YX Evenskjer",
+    "lat": 68.58563,
+    "lng": 16.57168
+  },
+  {
+    "type": "fuel",
+    "name": "LPG Harstad",
+    "lat": 68.77965,
+    "lng": 16.58831
+  },
+  {
+    "type": "fuel",
+    "name": "Knapphus Rødskjær",
+    "lat": 68.5775,
+    "lng": 16.52488
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Seljestad",
+    "lat": 68.79057,
+    "lng": 16.53684
+  },
+  {
+    "type": "fuel",
+    "name": "Esso Bjerkvik",
+    "lat": 68.54886,
+    "lng": 17.55937
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Bjerkvik",
+    "lat": 68.55117,
+    "lng": 17.55775
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Truck Bjerkvik",
+    "lat": 68.54106,
+    "lng": 17.57786
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X 7-Eleven Bardufoss",
+    "lat": 69.0936,
+    "lng": 18.59283
+  },
+  {
+    "type": "fuel",
+    "name": "Esso Bardu",
+    "lat": 68.86053,
+    "lng": 18.34845
+  },
+  {
+    "type": "fuel",
+    "name": "LPG Bardufoss",
+    "lat": 69.09057,
+    "lng": 18.58607
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Setermoen",
+    "lat": 68.86338,
+    "lng": 18.34592
+  },
+  {
+    "type": "fuel",
+    "name": "YX Bardufoss",
+    "lat": 69.0442,
+    "lng": 18.51008
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Truck Bardufoss",
+    "lat": 69.09365,
+    "lng": 18.59244
+  },
+  {
+    "type": "fuel",
+    "name": "Esso Tømmerelv",
+    "lat": 69.21703,
+    "lng": 19.30135
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K E6 Buktamo",
+    "lat": 69.13367,
+    "lng": 18.57905
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Automat Storsteinnes",
+    "lat": 69.24017,
+    "lng": 19.22478
+  },
+  {
+    "type": "fuel",
+    "name": "B3 Petroleum Buktamo Tankanlegg",
+    "lat": 69.13318,
+    "lng": 18.58062
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Balsfjord",
+    "lat": 69.21547,
+    "lng": 19.55396
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K E6 Nordkjosbotn",
+    "lat": 69.21732,
+    "lng": 19.5574
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Breivika",
+    "lat": 69.67696,
+    "lng": 18.98056
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Fr Nansens plass",
+    "lat": 69.65465,
+    "lng": 18.96758
+  },
+  {
+    "type": "fuel",
+    "name": "Bunker Oil Isrenna",
+    "lat": 69.68503,
+    "lng": 19.00205
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Automat Kroken",
+    "lat": 69.68447,
+    "lng": 19.07123
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Automat Tromsø lufthavn",
+    "lat": 69.67846,
+    "lng": 18.90363
+  },
+  {
+    "type": "fuel",
+    "name": "YX Kvaløysletta",
+    "lat": 69.69049,
+    "lng": 18.86263
+  },
+  {
+    "type": "fuel",
+    "name": "LPG Tromsø",
+    "lat": 69.69469,
+    "lng": 19.01297
+  },
+  {
+    "type": "fuel",
+    "name": "Esso Express Tromsdalen",
+    "lat": 69.64702,
+    "lng": 18.98504
+  },
+  {
+    "type": "fuel",
+    "name": "Bunker Oil Dieselautomat",
+    "lat": 69.68378,
+    "lng": 18.90628
+  },
+  {
+    "type": "fuel",
+    "name": "Bunker Oil Dieselanlegg Skattøra",
+    "lat": 69.69594,
+    "lng": 19.01718
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Tromsø Strandvegen",
+    "lat": 69.63083,
+    "lng": 18.9205
+  },
+  {
+    "type": "fuel",
+    "name": "St1 Ishavsporten",
+    "lat": 69.64384,
+    "lng": 18.98243
+  },
+  {
+    "type": "fuel",
+    "name": null,
+    "lat": 69.68233,
+    "lng": 18.91213
+  },
+  {
+    "type": "fuel",
+    "name": "Esso Express Tomasjord",
+    "lat": 69.65442,
+    "lng": 19.00729
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Tromsdalen",
+    "lat": 69.64092,
+    "lng": 18.97144
+  },
+  {
+    "type": "fuel",
+    "name": "YX Jekta",
+    "lat": 69.67572,
+    "lng": 18.92286
+  },
+  {
+    "type": "charging",
+    "name": "Circle K Evenes",
+    "lat": 68.4963,
+    "lng": 16.70051
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Amfi Kanebogen Harstad",
+    "lat": 68.7788,
+    "lng": 16.5649
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Norbil Harstad",
+    "lat": 68.7798,
+    "lng": 16.58031
+  },
+  {
+    "type": "charging",
+    "name": "Evenes Kommune Charge365",
+    "lat": 68.52323,
+    "lng": 17.00888
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Shell Åsby",
+    "lat": 68.78121,
+    "lng": 16.56828
+  },
+  {
+    "type": "charging",
+    "name": "Kople Tjeldsundbrua hotel",
+    "lat": 68.62518,
+    "lng": 16.59051
+  },
+  {
+    "type": "charging",
+    "name": "Mer Harstad lufthavn",
+    "lat": 68.49155,
+    "lng": 16.69113
+  },
+  {
+    "type": "charging",
+    "name": "Mer OBS Harstad",
+    "lat": 68.79002,
+    "lng": 16.54159
+  },
+  {
+    "type": "charging",
+    "name": "Uno-X Kilamyra",
+    "lat": 68.7402,
+    "lng": 16.56326
+  },
+  {
+    "type": "charging",
+    "name": "Tesla Evenes Supercharger",
+    "lat": 68.49751,
+    "lng": 16.70296
+  },
+  {
+    "type": "charging",
+    "name": "Mer Lapphaugen Turiststasjon",
+    "lat": 68.67872,
+    "lng": 17.91542
+  },
+  {
+    "type": "charging",
+    "name": "Mer Bjerkvik hotell",
+    "lat": 68.55089,
+    "lng": 17.55256
+  },
+  {
+    "type": "charging",
+    "name": "Recharge St1 Bjerkvik",
+    "lat": 68.55191,
+    "lng": 17.55714
+  },
+  {
+    "type": "charging",
+    "name": "Kople Bjerkvik hotell",
+    "lat": 68.55034,
+    "lng": 17.55263
+  },
+  {
+    "type": "charging",
+    "name": "Tesla Setermoen Supercharger",
+    "lat": 68.86018,
+    "lng": 18.34658
+  },
+  {
+    "type": "charging",
+    "name": "Mer Extra Setermoen",
+    "lat": 68.86174,
+    "lng": 18.34625
+  },
+  {
+    "type": "charging",
+    "name": null,
+    "lat": 69.05515,
+    "lng": 18.48912
+  },
+  {
+    "type": "charging",
+    "name": "Ionity Setermoen",
+    "lat": 68.86197,
+    "lng": 18.34906
+  },
+  {
+    "type": "charging",
+    "name": "Eviny Bunnpris Setermoen",
+    "lat": 68.87734,
+    "lng": 18.35617
+  },
+  {
+    "type": "charging",
+    "name": "Mer Extra Bardufoss",
+    "lat": 69.06473,
+    "lng": 18.51033
+  },
+  {
+    "type": "charging",
+    "name": "Uno-X Bardufoss",
+    "lat": 69.06389,
+    "lng": 18.50486
+  },
+  {
+    "type": "charging",
+    "name": "Kople Spar Heggmo Bardufoss",
+    "lat": 69.04361,
+    "lng": 18.50888
+  },
+  {
+    "type": "charging",
+    "name": "eRoute 71 Målselv fjellandsby",
+    "lat": 69.07924,
+    "lng": 18.72418
+  },
+  {
+    "type": "charging",
+    "name": "Circle K E6 Buktamo",
+    "lat": 69.13356,
+    "lng": 18.58011
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Spar Storsteinnes",
+    "lat": 69.23967,
+    "lng": 19.23491
+  },
+  {
+    "type": "charging",
+    "name": "Kople Ishavsveien Esso Tømmerelv",
+    "lat": 69.21704,
+    "lng": 19.30145
+  },
+  {
+    "type": "charging",
+    "name": "Kople Coop Extra Olsborg",
+    "lat": 69.1427,
+    "lng": 18.59822
+  },
+  {
+    "type": "charging",
+    "name": null,
+    "lat": 69.21694,
+    "lng": 19.303
+  },
+  {
+    "type": "charging",
+    "name": "Mer Laksvatn",
+    "lat": 69.3763,
+    "lng": 19.36212
+  },
+  {
+    "type": "charging",
+    "name": "Circle K E6 Nordkjosbotn",
+    "lat": 69.21768,
+    "lng": 19.55632
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Vollan Gjestestue",
+    "lat": 69.21879,
+    "lng": 19.56145
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Shell Balsfjord",
+    "lat": 69.21569,
+    "lng": 19.55445
+  },
+  {
+    "type": "charging",
+    "name": "Ionity Nordkjosbotn",
+    "lat": 69.21816,
+    "lng": 19.56082
+  },
+  {
+    "type": "charging",
+    "name": "Universitetet i Tromsø",
+    "lat": 69.68132,
+    "lng": 18.97404
+  },
+  {
+    "type": "charging",
+    "name": "Circle K Breivika",
+    "lat": 69.67671,
+    "lng": 18.97973
+  },
+  {
+    "type": "charging",
+    "name": null,
+    "lat": 69.68455,
+    "lng": 19.00489
+  },
+  {
+    "type": "charging",
+    "name": "Traasdahl",
+    "lat": 69.6993,
+    "lng": 19.01392
+  },
+  {
+    "type": "charging",
+    "name": "Mercedes-Benz",
+    "lat": 69.69731,
+    "lng": 19.01531
+  },
+  {
+    "type": "charging",
+    "name": "Kia",
+    "lat": 69.69755,
+    "lng": 19.01459
+  },
+  {
+    "type": "charging",
+    "name": "Trondsen Auto",
+    "lat": 69.69386,
+    "lng": 19.0105
+  },
+  {
+    "type": "charging",
+    "name": "e-Station VW",
+    "lat": 69.67771,
+    "lng": 18.9313
+  },
+  {
+    "type": "charging",
+    "name": "Recharge Tromsø Lufthavn",
+    "lat": 69.67859,
+    "lng": 18.90557
+  },
+  {
+    "type": "charging",
+    "name": "Tesla",
+    "lat": 69.64922,
+    "lng": 18.9627
+  },
+  {
+    "type": "charging",
+    "name": "Lesehus Øst",
+    "lat": 69.67966,
+    "lng": 18.97452
+  },
+  {
+    "type": "charging",
+    "name": "Mer Obs Jekta storsenter",
+    "lat": 69.67367,
+    "lng": 18.92331
+  },
+  {
+    "type": "charging",
+    "name": "Mer Amfi Pyramiden",
+    "lat": 69.63985,
+    "lng": 18.96993
+  },
+  {
+    "type": "charging",
+    "name": "Kople Ishavsveien Tromsø Taxi",
+    "lat": 69.69265,
+    "lng": 19.01567
+  },
+  {
+    "type": "charging",
+    "name": "Kople Ishavsveien Evjenvegen",
+    "lat": 69.65736,
+    "lng": 19.01406
+  },
+  {
+    "type": "charging",
+    "name": "Kople",
+    "lat": 69.67061,
+    "lng": 18.92068
+  },
+  {
+    "type": "charging",
+    "name": "Eviny Alti Nerstranda",
+    "lat": 69.64651,
+    "lng": 18.95394
+  },
+  {
+    "type": "charging",
+    "name": "Mer Tromsø Lufthavn",
+    "lat": 69.67819,
+    "lng": 18.90394
+  },
+  {
+    "type": "charging",
+    "name": null,
+    "lat": 69.64109,
+    "lng": 18.98564
+  },
+  {
+    "type": "charging",
+    "name": "Kople",
+    "lat": 69.66061,
+    "lng": 18.96726
+  },
+  {
+    "type": "charging",
+    "name": "Easypark",
+    "lat": 69.679,
+    "lng": 18.98149
+  },
+  {
+    "type": "charging",
+    "name": "Easypark",
+    "lat": 69.66051,
+    "lng": 18.96923
+  },
+  {
+    "type": "charging",
+    "name": null,
+    "lat": 69.67976,
+    "lng": 18.96767
+  }
+]

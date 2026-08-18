@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+.DS_Store
+*.log
+
+# 敏感 / 个人（签证、预订凭证、预算）
+2026-09-norway-lofoten/docs/03-bookings/
+2026-09-norway-lofoten/docs/04-checklist/
+2026-09-norway-lofoten/docs/05-budget/
+
+# 私有行程数据（航班/酒店等，不入库）
+2026-09-norway-lofoten/app/public/trip.json

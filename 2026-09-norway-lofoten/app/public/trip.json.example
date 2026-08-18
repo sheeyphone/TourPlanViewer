@@ -1,0 +1,17 @@
+{
+  "transport": {
+    "2": { "mode": "flight", "detail": "BKK 07:05 → HEL 15:25", "ref": "XX0000", "status": "confirmed" }
+  },
+  "hotels": {
+    "2": { "name": "Example Hotel", "status": "confirmed" }
+  },
+  "flights": {
+    "d2f": { "note": "BKK → HEL", "status": "confirmed" }
+  },
+  "notes": {
+    "2": "Airport transfer: train ~30min, ABC zone ticket"
+  },
+  "hotelMarkers": [
+    { "id": "example-hotel", "name": "Example Hotel", "lat": 60.1591, "lng": 24.938, "category": "hotel", "day": 2, "status": "confirmed", "note": "" }
+  ]
+}

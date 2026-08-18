@@ -19,22 +19,25 @@
 ## Day 5 · 09-30 (Wed) Oslo morning → Tromsø (evening arrival)
 - Oslo free morning → arrive Tromsø ~17:00 (flight / hotel: private data)
 
-## Day 6 · 10-01 (Thu) Tromsø · D1
-- Fjellheisen cable car + aurora spot, Polaria / Polar Museum, harbour walk, evening aurora
+## Day 6 · 10-01 (Thu) Tromsø · full day (incl. Arctic Cathedral)
+- Fjellheisen cable car + aurora spot, Arctic Cathedral (next to hotel — day or night), Polaria / Polar Museum, harbour walk, evening aurora
+- University Museum / fjord cruise demoted to optional (leaving Tromsø tomorrow)
 
-## Day 7 · 10-02 (Fri) Tromsø · D2
-- Arctic Cathedral (night lights), Tromsø University Museum, fjord cruise / aurora tour (optional)
-- Pick up rental car in the afternoon, still overnight in Tromsø (rental / hotel: private data)
+## Day 7 · 10-02 (Fri) Drive D1: Tromsø → Lødingen
+- Pick up car in the morning at TOS, drive ~336km / 5.5h → Lødingen by ~16:00
+- Catch the Arctic Cathedral night lights on D6 evening; pure driving day, start early (rental: private data)
 
-## Day 8 · 10-03 (Sat) Drive D1: Tromsø → Lødingen
-- ~336km / 5.5h (pure driving day); backup Lødingen↔Bognes free ferry
+## Day 8 · 10-03 (Sat) Drive D2: across Lofoten → Reine
+- Lødingen → **ferry (~31 km)** → Lofoten north end → E10 south through Svolvær → **Reine** (~221 km), 2 nights in Reine
+- Lunch option: Trevarefabrikken or Nordis (Svolvær)
 
-## Day 9 · 10-04 (Sun) Drive D2: across Lofoten (north → south)
-- Svolvær, Henningsvær stadium, Reinehalsen viewpoint → overnight Sørvågen (E10 ~219km)
+## Day 9 · 10-04 (Sun) Reine west side
+- Å village + museum + bakery, Moskenes ferry terminal, Hamnøy bridge / Reinehalsen viewpoint, Sakrisøy yellow houses
+- Å bakery open until 10/12 (9–15); Reinebringen not recommended in Oct; night 2 in Reine, aurora nearby
 
-## Day 10 · 10-05 (Mon) Drive D3: Sørvågen → Harstad
-- Morning: Å village + museum + bakery, Moskenes ferry terminal → north to Harstad (~288km)
-- Å bakery open until 10/12; Reinebringen not recommended in Oct
+## Day 10 · 10-05 (Mon) Drive D3: Reine east → Harstad
+- Morning: Nusfjord (~1.5h; Henningsvær as alternate), optional Ramberg / Haukland beach stop on the way
+- Reine → Harstad (~290km / ~5h), cross the Lødingen ferry before dark, arrive Harstad by ~17:00
 
 ## Day 11 · 10-06 (Tue) Drive D4: Harstad → South Senja
 - Harstad → Stangnes → **Stangnes–Sørrollnes ferry** (~40 min) → Sørrollnes

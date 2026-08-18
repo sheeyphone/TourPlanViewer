@@ -1,12 +1,6 @@
 [
   {
     "type": "fuel",
-    "name": "Circle K Leknes",
-    "lat": 68.14826,
-    "lng": 13.61356
-  },
-  {
-    "type": "fuel",
     "name": "Circle K Reine",
     "lat": 67.93462,
     "lng": 13.08878
@@ -31,15 +25,21 @@
   },
   {
     "type": "fuel",
-    "name": "Uno-X Leknes",
-    "lat": 68.1556,
-    "lng": 13.62224
+    "name": "Circle K Leknes",
+    "lat": 68.14826,
+    "lng": 13.61356
   },
   {
     "type": "fuel",
     "name": null,
     "lat": 68.25887,
     "lng": 13.82046
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Leknes",
+    "lat": 68.1556,
+    "lng": 13.62224
   },
   {
     "type": "fuel",
@@ -175,24 +175,6 @@
   },
   {
     "type": "charging",
-    "name": "Circle K Leknes",
-    "lat": 68.14873,
-    "lng": 13.61272
-  },
-  {
-    "type": "charging",
-    "name": "Mer Lofotsenteret",
-    "lat": 68.14822,
-    "lng": 13.61837
-  },
-  {
-    "type": "charging",
-    "name": "Eviny Rema 1000 Leknes",
-    "lat": 68.14512,
-    "lng": 13.61987
-  },
-  {
-    "type": "charging",
     "name": "Tesla Reine Supercharger",
     "lat": 67.93478,
     "lng": 13.09405
@@ -229,15 +211,27 @@
   },
   {
     "type": "charging",
-    "name": "Tesla Leknes Supercharger",
-    "lat": 68.14515,
-    "lng": 13.62051
+    "name": "Circle K Leknes",
+    "lat": 68.14873,
+    "lng": 13.61272
   },
   {
     "type": "charging",
     "name": null,
     "lat": 68.15608,
     "lng": 14.20736
+  },
+  {
+    "type": "charging",
+    "name": "Mer Lofotsenteret",
+    "lat": 68.14822,
+    "lng": 13.61837
+  },
+  {
+    "type": "charging",
+    "name": "Eviny Rema 1000 Leknes",
+    "lat": 68.14512,
+    "lng": 13.61987
   },
   {
     "type": "charging",
@@ -250,6 +244,12 @@
     "name": null,
     "lat": 68.15238,
     "lng": 14.2099
+  },
+  {
+    "type": "charging",
+    "name": "Tesla Leknes Supercharger",
+    "lat": 68.14515,
+    "lng": 13.62051
   },
   {
     "type": "charging",

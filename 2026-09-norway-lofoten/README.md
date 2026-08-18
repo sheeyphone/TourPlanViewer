@@ -11,11 +11,11 @@ Map / roadbook: `app/` (`cd app && pnpm dev`). Flights, hotels and personal logi
 | 3 | 09-28 (Mon) | Helsinki morning → Oslo afternoon | Oslo |
 | 4 | 09-29 (Tue) | Oslo full day — The Scream (Nasjonalmuseet) | Oslo |
 | 5 | 09-30 (Wed) | Oslo morning → Tromsø (evening arrival) | Tromsø |
-| 6 | 10-01 (Thu) | Tromsø · D1 (Fjellheisen / aurora) | Tromsø |
-| 7 | 10-02 (Fri) | Tromsø · D2 (pick up car in afternoon) | Tromsø |
-| 8 | 10-03 (Sat) | Drive D1: Tromsø → Lødingen (336 km) | Lødingen |
-| 9 | 10-04 (Sun) | Drive D2: across Lofoten north→south (219 km) | Sørvågen |
-| 10 | 10-05 (Mon) | Drive D3: Sørvågen → Harstad (288 km) | Harstad |
+| 6 | 10-01 (Thu) | Tromsø full day (Fjellheisen + Arctic Cathedral + Polaria) | Tromsø |
+| 7 | 10-02 (Fri) | Drive D1: Tromsø → Lødingen (336 km), pick up car AM | Lødingen |
+| 8 | 10-03 (Sat) | Drive D2: Lødingen → ferry → across Lofoten → Reine (221 km + ferry) | Reine |
+| 9 | 10-04 (Sun) | Reine west: Å / Hamnøy / Sakrisøy | Reine |
+| 10 | 10-05 (Mon) | Drive D3: Reine east (Nusfjord) → Harstad (290 km) | Harstad |
 | 11 | 10-06 (Tue) | Drive D4: Harstad → South Senja (131 km + 40 min ferry), overnight Senja | Senja |
 | 12 | 10-07 (Wed) | Drive D5: Senja → ferry → Tromsø (121 km + 40 min ferry) → evening flight to Helsinki | Helsinki |
 | 13 | 10-08 (Thu) | Helsinki morning → Bangkok | flight |
@@ -23,7 +23,7 @@ Map / roadbook: `app/` (`cd app && pnpm dev`). Flights, hotels and personal logi
 
 ## Driving notes
 
-- 5-day loop (~1095 km, 10/03–10/07): Tromsø → Lødingen → Lofoten (north & south) → Sørvågen → Harstad → Senja → Tromsø
+- 5-day loop (~1099 km, 10/02–10/07): Tromsø → Lødingen → Lofoten (cross + Reine 2 nights) → Harstad → Senja → Tromsø
 - Lofoten is a dead-end peninsula (same road in/out); one day to cross it, pick the highlights
 - ~10–11h of daylight in October — start early, stop before dark
 - Season notes: Å bakery open until 10/12; Reinebringen not recommended in Oct; D5 ferry fallback — road-only Silsand → Finnsnes → Målselv → E8 → Tromsø (168 km, no ferry)

@@ -70,7 +70,19 @@ export default [
   { id: 'univ-museum', name: '北极大学博物馆', lat: 69.6345, lng: 18.9105, category: 'scenery', day: 7, image: '/images/tromso-univ-museum.jpg', closed: '周一闭馆', note: '极光原理常设展+萨米文化，最懂极光的博物馆，约 150 NOK' },
   { id: 'fiskekompaniet', name: 'Fiskekompaniet', lat: 69.648, lng: 18.957, category: 'food', day: 7, note: '高级海鲜餐厅，900-1500 NOK，周日闭店，需订位' },
 
+  // ── 纳尔维克 · D7 ───────────────────────────────
+  { id: 'narvik', name: '纳尔维克 Narvik', lat: 68.4385, lng: 17.4272, category: 'city', day: 7, note: 'D1 夜宿，港口城市' },
+  { id: 'narvik-war-museum', name: '纳尔维克战争博物馆', lat: 68.4378, lng: 17.4254, category: 'scenery', day: 7, go: true, note: 'Narvik krigsmuseum，二战纳尔维克战役纪念馆' },
+  { id: 'narvik-gondola', name: 'Narvikfjellet 缆车', lat: 68.4311, lng: 17.448, category: 'viewpoint', day: 7, note: '⚠️停运至 2026-12 雪季，仅外部打卡' },
+  { id: 'narvik-harbour', name: '纳尔维克港', lat: 68.4403, lng: 17.437, category: 'scenery', day: 7, note: '港口散步/日落' },
+  { id: 'narvik-mall', name: 'Thon Senter 购物中心', lat: 68.4411, lng: 17.4354, category: 'shop', day: 7, note: '市中心商场（超市/服饰/纪念品）' },
+  { id: 'narvik-supermarket', name: 'Extra Kongensgate 超市', lat: 68.4416, lng: 17.4365, category: 'shop', day: 7, note: '补粮/日用品' },
+  { id: 'narvik-fuel', name: 'Shell 纳尔维克', lat: 68.4416, lng: 17.4377, category: 'fuel', day: 7, note: '市中心加油站' },
+  { id: 'narvik-charging-tesla', name: '特斯拉超充（Narvik）', lat: 68.4367, lng: 17.425, category: 'charging', day: 7, note: 'Tesla Supercharger，近市中心' },
+  { id: 'narvik-charging-mer', name: 'Mer 快充（Amfi Narvik）', lat: 68.4374, lng: 17.4211, category: 'charging', day: 7, note: 'Amfi 商场快充站' },
+
   // ── 罗弗敦北线 · D10（东线/北上）─────────────────
+  { id: 'kabelvag', name: 'Kabelvåg（北线基地）', lat: 68.2101, lng: 14.4774, category: 'hotel', day: 8, note: 'D2-D3 连住 2 晚，近 Svolvær' },
   { id: 'svolvaer', name: '斯沃尔韦尔 Svolvær', lat: 68.2342, lng: 14.5684, category: 'hotel', day: 10, note: '罗弗敦北线门户，住宿' },
   { id: 'svolvaer-molo', name: '斯沃尔韦尔港湾', lat: 68.236, lng: 14.566, category: 'scenery', day: 10, note: '鱼干架/山羊岩 Svolværgeita，适合日落与极光' },
   { id: 'floya', name: 'Fløya & Djevelporten', lat: 68.236, lng: 14.555, category: 'hike', day: 10, note: '590m 俯瞰群岛"恶魔之门"，Sherpa 石阶，10月湿滑风大' },
@@ -81,11 +93,11 @@ export default [
   { id: 'henningsvaer', name: '亨宁斯韦尔 Henningsvær', lat: 68.151, lng: 14.2, category: 'viewpoint', day: 10, go: true, note: '渔村+足球场观景台，经典机位（禁无人机）' },
   { id: 'henning-stadium', name: '亨宁斯韦尔足球场', lat: 68.151, lng: 14.204, category: 'viewpoint', day: 10, go: true, note: '全球最上镜球场之一，岛屿之间迷你球场' },
   { id: 'kaviarfactory', name: 'KaviarFactory 艺术馆', lat: 68.153, lng: 14.2, category: 'scenery', day: 10, note: '老鱼罐头厂改造画廊，罗弗敦文化地标，营业时间先查' },
-  { id: 'lofotr', name: 'Lofotr 维京博物馆', lat: 68.24, lng: 13.743, category: 'scenery', day: 10, note: '83m 维京长屋复原，可喝蜂蜜酒，E10 旁 Leknes 北 14km' },
+  { id: 'lofotr', name: 'Lofotr 维京博物馆', lat: 68.24, lng: 13.743, category: 'scenery', day: 9, note: '83m 维京长屋复原，可喝蜂蜜酒，E10 旁 Leknes 北 14km' },
   { id: 'trevarefabrikken', name: 'Trevarefabrikken', lat: 68.152, lng: 14.2, category: 'food', day: 10, note: '老木工厂改造：柴火披萨+本地精酿，200-350 NOK' },
   { id: 'fiskekrogen', name: 'Fiskekrogen', lat: 68.153, lng: 14.2, category: 'food', day: 10, note: '亨宁斯韦尔海港海鲜，主打当日渔获，250-400 NOK' },
   { id: 'lofoten-wool', name: 'Lofoten Wool', lat: 68.153, lng: 14.2, category: 'shop', day: 10, note: '本地羊毛/纱线/编织套装，农场直供' },
-  { id: 'reine', name: '雷讷 Reine', lat: 67.932, lng: 13.0894, category: 'hotel', day: 8, note: '南线最上镜渔村，D2-D3 连住 2 晚' },
+  { id: 'reine', name: '雷讷 Reine', lat: 67.932, lng: 13.0894, category: 'hotel', day: 9, note: '南线最上镜渔村，D9 从 Kabelvåg 一日游' },
 
   // ── 罗弗敦南线 · D9 西线 / D10 东线 ──────────────
   { id: 'hamnoy', name: '雷讷港湾 / Reinehalsen', lat: 67.932, lng: 13.062, category: 'viewpoint', day: 9, go: true, note: 'E10 路边经典红屋峡湾机位，比爬 Reinebringen 省力得多' },
@@ -99,14 +111,14 @@ export default [
   { id: 'gammelbua', name: 'Gammelbua Restaurant', lat: 67.9354, lng: 13.0879, category: 'food', day: 9, note: '雷讷经典渔村料理，250-450 NOK，Reine Rorbuer 旗下需订位' },
   { id: 'maren-anna', name: 'Maren Anna', lat: 67.97, lng: 12.994, category: 'food', day: 9, note: 'Sørvågen 码头海鲜，200-350 NOK' },
   { id: 'brygga-a', name: 'Brygga Restaurant（Å）', lat: 67.88, lng: 12.983, category: 'food', day: 9, note: 'Å 村内正式餐厅，配渔村风景，250-400 NOK' },
-  { id: 'karoline', name: 'Karoline（Nusfjord）', lat: 68.032, lng: 13.348, category: 'food', day: 10, note: '途经 Nusfjord 海景海鲜，300-450 NOK' },
-  { id: 'nusfjord', name: '努斯峡湾 Nusfjord', lat: 68.0354, lng: 13.3477, category: 'scenery', day: 10, go: true, note: '百年渔村 rorbu 群，罗弗敦保护最完好，东线首选点' },
-  { id: 'ramberg-beach', name: '拉姆贝格白沙滩 Rambergstranda', lat: 68.0984, lng: 13.2456, category: 'scenery', day: 10, note: 'Flakstad 白沙滩，E10 沿线，10月适合拍照非游泳' },
-  { id: 'haukland-beach', name: '豪克兰海滩 Hauklandstranda', lat: 68.1993, lng: 13.5325, category: 'scenery', day: 10, note: '常评最美海滩，Vestvågøy，E10 附近' },
+  { id: 'karoline', name: 'Karoline（Nusfjord）', lat: 68.032, lng: 13.348, category: 'food', day: 9, note: '途经 Nusfjord 海景海鲜，300-450 NOK' },
+  { id: 'nusfjord', name: '努斯峡湾 Nusfjord', lat: 68.0354, lng: 13.3477, category: 'scenery', day: 9, go: true, note: '百年渔村 rorbu 群，罗弗敦保护最完好，东线首选点' },
+  { id: 'ramberg-beach', name: '拉姆贝格白沙滩 Rambergstranda', lat: 68.0984, lng: 13.2456, category: 'scenery', day: 9, note: 'Flakstad 白沙滩，E10 沿线，10月适合拍照非游泳' },
+  { id: 'haukland-beach', name: '豪克兰海滩 Hauklandstranda', lat: 68.1993, lng: 13.5325, category: 'scenery', day: 9, note: '常评最美海滩，Vestvågøy，E10 附近' },
   { id: 'a-shop', name: 'Å 博物馆纪念品店', lat: 67.88, lng: 12.983, category: 'shop', day: 9, note: '鱼干/手工艺品/本地特产' },
 
-  // ── 自驾沿线 · D7/D8/D10/D11 ────────────────────
-  { id: 'lodingen', name: '莱丁恩 Lødingen', lat: 68.4145, lng: 15.995, category: 'city', day: 7, note: 'D1 夜宿·中转' },
+  // ── 自驾沿线 · D8/D10/D11 ────────────────────────
+  { id: 'lodingen', name: '莱丁恩 Lødingen', lat: 68.4145, lng: 15.995, category: 'city', day: 8, note: 'Lødingen 渡轮中转（D2 途经）' },
   { id: 'sorvagen', name: 'Sørvågen', lat: 67.9695, lng: 12.9935, category: 'city', day: 9, note: 'E10 南线，近 Moskenes 码头' },
   { id: 'harstad', name: '哈斯塔德 Harstad', lat: 68.7984, lng: 16.5406, category: 'hotel', day: 10, note: '欣岛北岸城市，D3 夜宿' },
   { id: 'silsand', name: 'Silsand（南 Senja）', lat: 69.2448, lng: 17.9497, category: 'hotel', day: 11, note: '南 Senja 过夜点，Gisund 桥对岸 Finnsnes，D4 夜宿，D5 返程枢纽（渡轮/公路双兜底）' },

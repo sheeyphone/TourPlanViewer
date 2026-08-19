@@ -127,12 +127,6 @@
   },
   {
     "type": "fuel",
-    "name": "Esso Bardu",
-    "lat": 68.86053,
-    "lng": 18.34845
-  },
-  {
-    "type": "fuel",
     "name": "Circle K E6 Buktamo",
     "lat": 69.13367,
     "lng": 18.57905
@@ -142,12 +136,6 @@
     "name": "LPG Bardufoss",
     "lat": 69.09057,
     "lng": 18.58607
-  },
-  {
-    "type": "fuel",
-    "name": "Circle K Setermoen",
-    "lat": 68.86338,
-    "lng": 18.34592
   },
   {
     "type": "fuel",
@@ -169,6 +157,24 @@
   },
   {
     "type": "fuel",
+    "name": "Esso Bardu",
+    "lat": 68.86053,
+    "lng": 18.34845
+  },
+  {
+    "type": "fuel",
+    "name": "Circle K Setermoen",
+    "lat": 68.86338,
+    "lng": 18.34592
+  },
+  {
+    "type": "fuel",
+    "name": "Uno-X Truck Bjerkvik",
+    "lat": 68.54106,
+    "lng": 17.57786
+  },
+  {
+    "type": "fuel",
     "name": "Esso Bjerkvik",
     "lat": 68.54886,
     "lng": 17.55937
@@ -181,57 +187,27 @@
   },
   {
     "type": "fuel",
-    "name": "Circle K Evenes",
-    "lat": 68.49618,
-    "lng": 16.70049
+    "name": "Esso Express Ankenes",
+    "lat": 68.40699,
+    "lng": 17.41552
   },
   {
     "type": "fuel",
-    "name": "YX Bogen i Ofoten",
-    "lat": 68.52609,
-    "lng": 16.99449
+    "name": "Circle K E6 Narvik",
+    "lat": 68.41047,
+    "lng": 17.42826
   },
   {
     "type": "fuel",
-    "name": "YX Evenskjer",
-    "lat": 68.58563,
-    "lng": 16.57168
+    "name": "St1 Ankenes",
+    "lat": 68.40561,
+    "lng": 17.41759
   },
   {
     "type": "fuel",
-    "name": "Uno-X Truck Bjerkvik",
-    "lat": 68.54106,
-    "lng": 17.57786
-  },
-  {
-    "type": "fuel",
-    "name": "R.Jacobsen",
-    "lat": 68.56598,
-    "lng": 16.24986
-  },
-  {
-    "type": "fuel",
-    "name": "YX Kongsvik",
-    "lat": 68.56452,
-    "lng": 16.27571
-  },
-  {
-    "type": "fuel",
-    "name": "YX Sørvik",
-    "lat": 68.68373,
-    "lng": 16.5356
-  },
-  {
-    "type": "fuel",
-    "name": "YX Lødingen",
-    "lat": 68.42087,
-    "lng": 15.98963
-  },
-  {
-    "type": "fuel",
-    "name": "Knapphus Rødskjær",
-    "lat": 68.5775,
-    "lng": 16.52488
+    "name": "Uno-X Narvik",
+    "lat": 68.40703,
+    "lng": 17.41356
   },
   {
     "type": "charging",
@@ -286,6 +262,12 @@
     "name": "Recharge Tromsø Lufthavn",
     "lat": 69.67859,
     "lng": 18.90557
+  },
+  {
+    "type": "charging",
+    "name": "Mer Laksvatn",
+    "lat": 69.3763,
+    "lng": 19.36212
   },
   {
     "type": "charging",
@@ -373,12 +355,6 @@
   },
   {
     "type": "charging",
-    "name": "Mer Laksvatn",
-    "lat": 69.3763,
-    "lng": 19.36212
-  },
-  {
-    "type": "charging",
     "name": "Circle K E6 Nordkjosbotn",
     "lat": 69.21768,
     "lng": 19.55632
@@ -421,21 +397,9 @@
   },
   {
     "type": "charging",
-    "name": "Tesla Setermoen Supercharger",
-    "lat": 68.86018,
-    "lng": 18.34658
-  },
-  {
-    "type": "charging",
     "name": "eRoute 71 Målselv fjellandsby",
     "lat": 69.07924,
     "lng": 18.72418
-  },
-  {
-    "type": "charging",
-    "name": "Mer Extra Setermoen",
-    "lat": 68.86174,
-    "lng": 18.34625
   },
   {
     "type": "charging",
@@ -448,18 +412,6 @@
     "name": null,
     "lat": 69.05515,
     "lng": 18.48912
-  },
-  {
-    "type": "charging",
-    "name": "Ionity Setermoen",
-    "lat": 68.86197,
-    "lng": 18.34906
-  },
-  {
-    "type": "charging",
-    "name": "Eviny Bunnpris Setermoen",
-    "lat": 68.87734,
-    "lng": 18.35617
   },
   {
     "type": "charging",
@@ -487,9 +439,33 @@
   },
   {
     "type": "charging",
+    "name": "Tesla Setermoen Supercharger",
+    "lat": 68.86018,
+    "lng": 18.34658
+  },
+  {
+    "type": "charging",
     "name": "Mer Lapphaugen Turiststasjon",
     "lat": 68.67872,
     "lng": 17.91542
+  },
+  {
+    "type": "charging",
+    "name": "Mer Extra Setermoen",
+    "lat": 68.86174,
+    "lng": 18.34625
+  },
+  {
+    "type": "charging",
+    "name": "Ionity Setermoen",
+    "lat": 68.86197,
+    "lng": 18.34906
+  },
+  {
+    "type": "charging",
+    "name": "Eviny Bunnpris Setermoen",
+    "lat": 68.87734,
+    "lng": 18.35617
   },
   {
     "type": "charging",
@@ -499,21 +475,15 @@
   },
   {
     "type": "charging",
-    "name": "Circle K Evenes",
-    "lat": 68.4963,
-    "lng": 16.70051
+    "name": "Recharge Narvik",
+    "lat": 68.43552,
+    "lng": 17.41298
   },
   {
     "type": "charging",
-    "name": "Evenes Kommune Charge365",
-    "lat": 68.52323,
-    "lng": 17.00888
-  },
-  {
-    "type": "charging",
-    "name": "Kople Tjeldsundbrua hotel",
-    "lat": 68.62518,
-    "lng": 16.59051
+    "name": "Recharge St1 Ankenes",
+    "lat": 68.40578,
+    "lng": 17.41811
   },
   {
     "type": "charging",
@@ -523,26 +493,38 @@
   },
   {
     "type": "charging",
+    "name": "Kople Kiwi Ankenes",
+    "lat": 68.4067,
+    "lng": 17.41471
+  },
+  {
+    "type": "charging",
     "name": "Kople Bjerkvik hotell",
     "lat": 68.55034,
     "lng": 17.55263
   },
   {
     "type": "charging",
-    "name": "Mer Harstad lufthavn",
-    "lat": 68.49155,
-    "lng": 16.69113
+    "name": null,
+    "lat": 68.4115,
+    "lng": 17.4294
   },
   {
     "type": "charging",
-    "name": "Tesla Evenes Supercharger",
-    "lat": 68.49751,
-    "lng": 16.70296
+    "name": "Mer Amfi Narvik Malmporten",
+    "lat": 68.4374,
+    "lng": 17.42111
   },
   {
     "type": "charging",
-    "name": "Kople Lad Opp YX Lødingen",
-    "lat": 68.42124,
-    "lng": 15.99015
+    "name": "Kople Universitetssykehuset i Narvik",
+    "lat": 68.44707,
+    "lng": 17.46562
+  },
+  {
+    "type": "charging",
+    "name": "Tesla Narvik Supercharger",
+    "lat": 68.43674,
+    "lng": 17.42503
   }
 ]
